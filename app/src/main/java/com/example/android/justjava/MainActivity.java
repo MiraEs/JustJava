@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    int quantity = 2;
+    int quantity = 0;
 
     /**
      * * This method is called when the order button is clicked
